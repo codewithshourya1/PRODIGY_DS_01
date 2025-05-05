@@ -1,6 +1,6 @@
-# prodigy_wd_01
+# PRODIGY_DS_01 - Task 1 
 
-hello this is my frist task of my intrenship in prodigy infotech as data science 
+this project is part of my intrenship of data science at prodigy infotech 
 
 this project is Python-based data visualization script that demonstrates how to generate and analyze a s dataset representing population demographics. It shows the distribution of *ages* (a continuous variable) and *genders* (a categorical variable) using *histograms* and *bar charts*.
 
